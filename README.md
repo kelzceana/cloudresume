@@ -61,5 +61,5 @@ The Cloud Resume Project is a serverless application that hosts a resume as a st
 
 ---
 
-##Usage
+## Usage
 View the Resume: Access the resume via the custom domain configured in Route 53 www.kelechiedeh.info.
