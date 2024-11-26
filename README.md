@@ -10,10 +10,7 @@ This project showcases a cloud-hosted resume built using AWS services and automa
 - [Features](#features)
 - [Architecture](#architecture)
 - [Technologies Used](#technologies-used)
-- [Project Setup](#project-setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
